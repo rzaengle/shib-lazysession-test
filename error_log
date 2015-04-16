@@ -1,0 +1,7 @@
+[20-Mar-2015 08:27:40 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/myubcard/public_html/shibtest/index.php on line 6
+[20-Mar-2015 08:27:41 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/myubcard/public_html/shibtest/index.php on line 6
+[20-Mar-2015 08:48:12 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/myubcard/public_html/shibtest/index.php:11) in /home/myubcard/public_html/shibtest/index.php on line 12
+[20-Mar-2015 08:48:14 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/myubcard/public_html/shibtest/index.php:11) in /home/myubcard/public_html/shibtest/index.php on line 12
+[20-Mar-2015 08:48:38 America/New_York] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/myubcard/public_html/shibtest/index.php on line 46
+[20-Mar-2015 08:48:39 America/New_York] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/myubcard/public_html/shibtest/index.php on line 46
+[20-Mar-2015 08:48:39 America/New_York] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/myubcard/public_html/shibtest/index.php on line 46
